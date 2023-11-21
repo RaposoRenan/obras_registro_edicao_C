@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698981826 source:c:\users\renan\onedrive\documents\pim\pim_obra\registro_obra\obras.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"obras.h"
+
+1697971464 c:\users\renan\onedrive\documents\pim\pim_obra\registro_obra\obras.h
+
+1698986218 source:c:\users\renan\onedrive\documents\pim\pim_obra\registro_obra\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"obras.h"
+
